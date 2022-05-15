@@ -7,6 +7,6 @@
 // definitions uncommented:
 //
 
-#define WIFI_SSID "a1 alpha"
-#define WIFI_PASS "druga123"
+#define WIFI_SSID "tina"
+#define WIFI_PASS "tina1129"
 
