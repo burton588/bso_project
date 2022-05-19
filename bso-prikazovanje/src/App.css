@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+
+body {
+  background-color: #282c34;
+  color: white;
+}
+
+.temperatura {
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 100px;
+  box-shadow: 0 4px 40px 20px rgb(78, 78, 78);
+  width: 60%;
+  background-color: #101520;
+  border-radius: 15px;
+}
+
+.temperatura-container {
+  padding: 20px 16px;
+}
